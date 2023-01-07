@@ -40,7 +40,7 @@ const Home = () => {
         <div className="hero-text">
           <h2>Order Management Solution</h2>
           <p>
-            Order Management system to control and manage proucts in the
+            Order Management system to control and manage products in the
             warehouse in real timeand integrated to make it easier to develop
             your business.
           </p>
