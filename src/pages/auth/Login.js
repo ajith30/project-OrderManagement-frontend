@@ -9,6 +9,7 @@ import { loginUser, validateEmail } from "../../services/authService";
 import { SET_LOGIN, SET_NAME } from "../../redux/features/auth/authSlice";
 import Loader from "../../components/loader/Loader";
 
+
 const initialState = {
   email: "",
   password: "",
@@ -92,6 +93,14 @@ const Login = () => {
             <p> &nbsp; Don't have an account? &nbsp;</p>
             <Link to="/register">Register</Link>
           </span>
+          <br />
+          <br />
+          <div>
+            <p><b>For Demo, please use below login credentials </b> </p>
+            <br />
+            <p><b>Email:</b>&nbsp; demo123@mail.com</p>
+            <p><b>Password:</b>&nbsp; demo123</p>
+          </div>
         </div>
       </Card>
     </div>

@@ -115,6 +115,14 @@ const Register = () => {
             <p> &nbsp; Already have an account? &nbsp;</p>
             <Link to="/login">Login</Link>
           </span>
+          <br />
+          <br />
+          <div>
+            <p><b>For Demo, please use below login credentials </b> </p>
+            <br />
+            <p><b>Email:</b>&nbsp; demo123@mail.com</p>
+            <p><b>Password:</b>&nbsp; demo123</p>
+          </div>
         </div>
       </Card>
     </div>
