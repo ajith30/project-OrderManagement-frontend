@@ -121,7 +121,7 @@ const Register = () => {
             <p><b>For Demo, please use below login credentials </b> </p>
             <br />
             <p><b>Email:</b>&nbsp; demo123@mail.com</p>
-            <p><b>Password:</b>&nbsp; demo123</p>
+            <p><b>Password:</b>&nbsp; demo@user@123</p>
           </div>
         </div>
       </Card>
